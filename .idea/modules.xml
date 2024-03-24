@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array-String/Array-String.iml" filepath="$PROJECT_DIR$/Array-String/Array-String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-String/Best Time to Buy and Sell Stock/Best Time to Buy and Sell Stock.iml" filepath="$PROJECT_DIR$/Array-String/Best Time to Buy and Sell Stock/Best Time to Buy and Sell Stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-String/Best Time to Buy and Sell Stock II/Best Time to Buy and Sell Stock II.iml" filepath="$PROJECT_DIR$/Array-String/Best Time to Buy and Sell Stock II/Best Time to Buy and Sell Stock II.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-String/Majority Element/Majority Element.iml" filepath="$PROJECT_DIR$/Array-String/Majority Element/Majority Element.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-String/Merge-Sorted-Array/Merge-Sorted-Array.iml" filepath="$PROJECT_DIR$/Array-String/Merge-Sorted-Array/Merge-Sorted-Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array-String/Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.iml" filepath="$PROJECT_DIR$/Array-String/Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.iml" />
