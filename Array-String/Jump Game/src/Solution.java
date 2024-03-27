@@ -25,12 +25,12 @@ public class Solution {
         // Initially the final position is the last index
         int finalPosition=nums.length-1;
         // Start with the second last index
-        for (int idx = nums.length-2 ; idx>=0 ; idx--) {
+        for (int index = nums.length-2 ; index>=0 ; index--) {
 
             // If you can reach the final position from this index
             // update the final position flag
-            if (idx+ nums[idx] >= finalPosition ) {
-                finalPosition = idx;
+            if (index+ nums[index] >= finalPosition ) {
+                finalPosition = index;
             }
         }
         // If we reach the first index , then we can
